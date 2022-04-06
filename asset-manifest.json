@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.116d2599.css",
+    "main.js": "/ecommerce/static/js/main.f00750c8.js",
+    "static/js/787.dcc73137.chunk.js": "/ecommerce/static/js/787.dcc73137.chunk.js",
+    "static/media/phones.png": "/ecommerce/static/media/phones.42b59f5c79bef2c8fd4c.png",
+    "index.html": "/ecommerce/index.html",
+    "main.116d2599.css.map": "/ecommerce/static/css/main.116d2599.css.map",
+    "main.f00750c8.js.map": "/ecommerce/static/js/main.f00750c8.js.map",
+    "787.dcc73137.chunk.js.map": "/ecommerce/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.116d2599.css",
+    "static/js/main.f00750c8.js"
+  ]
+}

@@ -1,13 +1,68 @@
-body {
+body{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Amiko', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.ibm{
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.montserrat{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bg-orange{
+  background-color: #EF5E0D;
+}
+
+.bg-lilac{
+  background: rgba(190, 17, 233, 0.24);
+}
+
+.font-15{
+  font-size: 15px;
+}
+
+.font-16{
+  font-size: 16px;
+}
+
+.search-input{
+  box-shadow: none !important;
+  outline: none !important;
+  border: 1px solid transparent !important;
+}
+
+.search-input::placeholder{
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 300;
+  color: #3E3E3E !important;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.in-group{
+  outline: none !important;
+  border: 0.6px solid #B7ABAB !important;
+  border-radius: 30px !important;
+}
+
+.border-30{
+  border-radius: 30px;
+}
+
+.border-20{
+  border-radius: 20px;
+}
+
+.bor3{
+  border: 1px solid #EF5E0D;
+}
+
+.input-text{
+  background-color: transparent !important;
+  outline: none !important;
+  border: 1px solid transparent !important;
 }

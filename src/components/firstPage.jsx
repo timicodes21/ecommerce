@@ -7,8 +7,8 @@ const FirstPage = () => {
   return (
     <div>
         <Container className="my-5">
-            <Search />
-            <ShopPhones />
+          <Search />
+          <ShopPhones />
         </Container>
     </div>
   )

@@ -9,14 +9,14 @@ const ShopPhones = () => {
         font-weight: 500;
         color: #412C4E;
         font-family: 'Montserrat', sans-serif;
-        Line height: 80px;
+        line-height: 80px;
     `;
     const TitleMobile = styled.p`
         font-size: 42px;
         font-weight: 500;
         color: #412C4E;
         font-family: 'Montserrat', sans-serif;
-        Line height: 30px;
+        line-height: 50px;
     `;
   return (
     <div>

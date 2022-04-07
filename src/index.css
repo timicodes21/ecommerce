@@ -29,6 +29,14 @@ body{
   font-size: 16px;
 }
 
+.font-18{
+  font-size: 18px;
+}
+
+.font-700{
+  font-weight: 700;
+}
+
 .search-input{
   box-shadow: none !important;
   outline: none !important;
@@ -43,6 +51,13 @@ body{
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
+.signup-input::placeholder{
+  font-size: 18px;
+  font-weight: 400;
+  color: #9A9A9A  !important;
+  font-style: normal;
+}
+
 .in-group{
   outline: none !important;
   border: 0.6px solid #B7ABAB !important;
@@ -53,16 +68,47 @@ body{
   border-radius: 30px;
 }
 
+.border-15{
+  border-radius: 15px;
+}
+
 .border-20{
   border-radius: 20px;
 }
 
 .bor3{
   border: 1px solid #EF5E0D;
+  transition: 0.5s;
+}
+
+.bor3:hover{
+  transform: scale(1.05);
 }
 
 .input-text{
   background-color: transparent !important;
   outline: none !important;
   border: 1px solid transparent !important;
+}
+
+.best-seller-items{
+  transition: 0.5s;
+}
+
+.best-seller-items:hover{
+  transform: scale(1.1);
+}
+
+.linear-gradient{
+  background: linear-gradient(39.27deg, #CC4CEC 65.38%, #BE11E9 72.02%);
+  border-radius: 30px;
+}
+
+.sign-up{
+  background: linear-gradient(91.62deg, #EF5E0D 26.96%, #F03800 85.31%);
+}
+
+.icon-bg{
+  background: rgba(6, 6, 6, 0.08);
+  border-radius: 50%;
 }

@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/ecommerce/static/css/main.116d2599.css",
-    "main.js": "/ecommerce/static/js/main.f00750c8.js",
+    "main.css": "/ecommerce/static/css/main.5d4c78a0.css",
+    "main.js": "/ecommerce/static/js/main.6e66fabf.js",
     "static/js/787.dcc73137.chunk.js": "/ecommerce/static/js/787.dcc73137.chunk.js",
+    "static/media/person.png": "/ecommerce/static/media/person.a660e23e5f7f01876858.png",
     "static/media/phones.png": "/ecommerce/static/media/phones.42b59f5c79bef2c8fd4c.png",
+    "static/media/electronics.png": "/ecommerce/static/media/electronics.a236ad3ce095dbebb1e1.png",
+    "static/media/healthAnd.png": "/ecommerce/static/media/healthAnd.80e4ce6ca74396002b66.png",
+    "static/media/iphone.png": "/ecommerce/static/media/iphone.bc2add751587e03ad4c4.png",
+    "static/media/phoness.png": "/ecommerce/static/media/phoness.e90ed6e3da5f6dcc7951.png",
+    "static/media/fashion.png": "/ecommerce/static/media/fashion.ff456f22a0e0ac1a4bf7.png",
     "index.html": "/ecommerce/index.html",
-    "main.116d2599.css.map": "/ecommerce/static/css/main.116d2599.css.map",
-    "main.f00750c8.js.map": "/ecommerce/static/js/main.f00750c8.js.map",
+    "main.5d4c78a0.css.map": "/ecommerce/static/css/main.5d4c78a0.css.map",
+    "main.6e66fabf.js.map": "/ecommerce/static/js/main.6e66fabf.js.map",
     "787.dcc73137.chunk.js.map": "/ecommerce/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.116d2599.css",
-    "static/js/main.f00750c8.js"
+    "static/css/main.5d4c78a0.css",
+    "static/js/main.6e66fabf.js"
   ]
 }

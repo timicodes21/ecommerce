@@ -3,6 +3,7 @@ import { Carousel, Row, Image } from 'react-bootstrap'
 import styled from "styled-components";
 import Phones from '../assets/phones.png'
 
+// Shop Phone Component
 const ShopPhones = () => {
     const Title = styled.p`
         font-size: 58px;

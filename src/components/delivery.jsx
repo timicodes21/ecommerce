@@ -20,6 +20,7 @@ const Delivery = () => {
         line-height: 21px;
     `;
 
+    // Free Delivery, 30 Days returns and 24/7 Online Support component
   return (
     <Container className="my-5 py-2">
         <Row>

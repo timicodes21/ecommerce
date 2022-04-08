@@ -3,6 +3,7 @@ import { InputGroup, FormControl, Image, Form, Row, Container } from 'react-boot
 import Searchimage from '../assets/search.png'
 import Cart from '../assets/cart.png'
 
+// Search Bar Component
 const Search = () => {
   return (
     <Container fluid>

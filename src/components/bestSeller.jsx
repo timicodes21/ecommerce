@@ -6,6 +6,7 @@ import Fridge from '../assets/fridge.png'
 import Fullstar from '../assets/fullstar.png'
 import Halfstar from '../assets/halfstar.png'
 
+// Best Seller Component but also used it for deal of the day passing props
 const BestSeller = ({ header }) => {
     const Heading = styled.p`
         font-size: 28px;

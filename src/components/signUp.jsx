@@ -5,6 +5,7 @@ import Twitter from '../assets/twitter.png'
 import Facebook from '../assets/facebook.png'
 import Instagram from '../assets/instagram.png'
 
+// SIgnUp Component
 const SignUp = () => {
     const Heading = styled.p`
         font-size: 24px;

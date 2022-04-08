@@ -2,6 +2,7 @@ import React from 'react'
 import { Container } from 'react-bootstrap';
 import styled from "styled-components";
 
+// Footer Component
 const Footer = () => {
     const Text = styled.p`
         font-size: 12px;

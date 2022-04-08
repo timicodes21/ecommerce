@@ -3,6 +3,7 @@ import { Container, Row, Image } from 'react-bootstrap';
 import styled from "styled-components";
 import Rec from '../assets/rec.png'
 
+// Info Component
 const Info = () => {
     const Text = styled.p`
         font-size: 14px;

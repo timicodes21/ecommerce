@@ -6,7 +6,7 @@ import Health from '../assets/healthAnd.png'
 import Phones from '../assets/phoness.png'
 import Fashion from '../assets/fashion.png'
 
-
+// Popular Categories component
 const PopularCategories = () => {
     const Heading = styled.p`
         font-size: 28px;

@@ -3,6 +3,7 @@ import { Container, Row, Image } from 'react-bootstrap';
 import styled from "styled-components";
 import Person from '../assets/person.png'
 
+// Ezone Ecommerce Component
 const Ezone = () => {
     const Heading = styled.p`
         font-size: 48px;
